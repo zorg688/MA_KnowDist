@@ -1,0 +1,95 @@
+[2025-06-15 14:34:51] [valid] Ep. 1 : Up. 5000 : perplexity : 10.6636 : new best
+[2025-06-15 14:34:51] [valid] First sentence's tokens as scored:
+[2025-06-15 14:34:51] [valid] Decoding validation set with SentencePieceVocab for scoring
+[2025-06-15 14:34:51] [valid]   Hyp: A s s o o n a s T o m , T o m , h e k n e w t h e b a g , h e k n e w t h a t h e w a s n ' t h i s h i s h i s .
+[2025-06-15 14:34:51] [valid]   Ref: A s s o o n a s T o m o p e n e d t h e b a g , h e k n e w i t w a s n ' t h i s .
+[2025-06-15 14:34:55] [valid] References contain unknown word, metric scores may be inaccurate
+[2025-06-15 14:38:13] [valid] Ep. 1 : Up. 5000 : chrf : 45.2682 : new best
+[2025-06-15 14:38:33] [valid] Ep. 1 : Up. 5000 : ce-mean-words : 2.36684 : new best
+[2025-06-15 15:17:07] [valid] Ep. 2 : Up. 10000 : perplexity : 3.94144 : new best
+[2025-06-15 15:20:21] [valid] Ep. 2 : Up. 10000 : chrf : 64.0596 : new best
+[2025-06-15 15:20:40] [valid] Ep. 2 : Up. 10000 : ce-mean-words : 1.37155 : new best
+[2025-06-15 15:59:04] [valid] Ep. 3 : Up. 15000 : perplexity : 2.98414 : new best
+[2025-06-15 16:02:19] [valid] Ep. 3 : Up. 15000 : chrf : 67.2451 : new best
+[2025-06-15 16:02:38] [valid] Ep. 3 : Up. 15000 : ce-mean-words : 1.09331 : new best
+[2025-06-15 16:41:09] [valid] Ep. 4 : Up. 20000 : perplexity : 2.60673 : new best
+[2025-06-15 16:44:22] [valid] Ep. 4 : Up. 20000 : chrf : 69.5434 : new best
+[2025-06-15 16:44:41] [valid] Ep. 4 : Up. 20000 : ce-mean-words : 0.958097 : new best
+[2025-06-15 17:23:05] [valid] Ep. 4 : Up. 25000 : perplexity : 2.4819 : new best
+[2025-06-15 17:26:17] [valid] Ep. 4 : Up. 25000 : chrf : 70.3264 : new best
+[2025-06-15 17:26:37] [valid] Ep. 4 : Up. 25000 : ce-mean-words : 0.909024 : new best
+[2025-06-15 18:05:06] [valid] Ep. 5 : Up. 30000 : perplexity : 2.2683 : new best
+[2025-06-15 18:08:21] [valid] Ep. 5 : Up. 30000 : chrf : 71.9853 : new best
+[2025-06-15 18:08:40] [valid] Ep. 5 : Up. 30000 : ce-mean-words : 0.81903 : new best
+[2025-06-15 18:47:05] [valid] Ep. 6 : Up. 35000 : perplexity : 2.23571 : new best
+[2025-06-15 18:50:16] [valid] Ep. 6 : Up. 35000 : chrf : 71.9671 : stalled 1 times (last best: 71.9853)
+[2025-06-15 18:50:35] [valid] Ep. 6 : Up. 35000 : ce-mean-words : 0.804559 : new best
+[2025-06-15 19:29:11] [valid] Ep. 7 : Up. 40000 : perplexity : 2.17744 : new best
+[2025-06-15 19:32:20] [valid] Ep. 7 : Up. 40000 : chrf : 72.5856 : new best
+[2025-06-15 19:32:38] [valid] Ep. 7 : Up. 40000 : ce-mean-words : 0.77815 : new best
+[2025-06-15 20:11:06] [valid] Ep. 8 : Up. 45000 : perplexity : 2.19964 : stalled 1 times (last best: 2.17744)
+[2025-06-15 20:14:19] [valid] Ep. 8 : Up. 45000 : chrf : 72.4881 : stalled 1 times (last best: 72.5856)
+[2025-06-15 20:14:37] [valid] Ep. 8 : Up. 45000 : ce-mean-words : 0.788292 : stalled 1 times (last best: 0.77815)
+[2025-06-15 20:53:00] [valid] Ep. 8 : Up. 50000 : perplexity : 2.1484 : new best
+[2025-06-15 20:56:11] [valid] Ep. 8 : Up. 50000 : chrf : 72.5812 : stalled 2 times (last best: 72.5856)
+[2025-06-15 20:56:30] [valid] Ep. 8 : Up. 50000 : ce-mean-words : 0.764725 : new best
+[2025-06-15 21:35:01] [valid] Ep. 9 : Up. 55000 : perplexity : 2.08726 : new best
+[2025-06-15 21:38:12] [valid] Ep. 9 : Up. 55000 : chrf : 73.0589 : new best
+[2025-06-15 21:38:30] [valid] Ep. 9 : Up. 55000 : ce-mean-words : 0.735853 : new best
+[2025-06-15 22:17:03] [valid] Ep. 10 : Up. 60000 : perplexity : 2.09907 : stalled 1 times (last best: 2.08726)
+[2025-06-15 22:20:15] [valid] Ep. 10 : Up. 60000 : chrf : 73.0496 : stalled 1 times (last best: 73.0589)
+[2025-06-15 22:20:34] [valid] Ep. 10 : Up. 60000 : ce-mean-words : 0.741493 : stalled 1 times (last best: 0.735853)
+[2025-06-15 22:58:59] [valid] Ep. 11 : Up. 65000 : perplexity : 2.0501 : new best
+[2025-06-15 23:02:10] [valid] Ep. 11 : Up. 65000 : chrf : 73.1403 : new best
+[2025-06-15 23:02:29] [valid] Ep. 11 : Up. 65000 : ce-mean-words : 0.717888 : new best
+[2025-06-15 23:40:57] [valid] Ep. 12 : Up. 70000 : perplexity : 2.06814 : stalled 1 times (last best: 2.0501)
+[2025-06-15 23:44:09] [valid] Ep. 12 : Up. 70000 : chrf : 73.654 : new best
+[2025-06-15 23:44:27] [valid] Ep. 12 : Up. 70000 : ce-mean-words : 0.726647 : stalled 1 times (last best: 0.717888)
+[2025-06-16 00:22:45] [valid] Ep. 12 : Up. 75000 : perplexity : 2.05578 : stalled 2 times (last best: 2.0501)
+[2025-06-16 00:25:57] [valid] Ep. 12 : Up. 75000 : chrf : 73.6652 : new best
+[2025-06-16 00:26:15] [valid] Ep. 12 : Up. 75000 : ce-mean-words : 0.720657 : stalled 2 times (last best: 0.717888)
+[2025-06-16 01:04:46] [valid] Ep. 13 : Up. 80000 : perplexity : 2.04341 : new best
+[2025-06-16 01:07:57] [valid] Ep. 13 : Up. 80000 : chrf : 73.6357 : stalled 1 times (last best: 73.6652)
+[2025-06-16 01:08:16] [valid] Ep. 13 : Up. 80000 : ce-mean-words : 0.71462 : new best
+[2025-06-16 01:46:43] [valid] Ep. 14 : Up. 85000 : perplexity : 2.03454 : new best
+[2025-06-16 01:49:56] [valid] Ep. 14 : Up. 85000 : chrf : 73.973 : new best
+[2025-06-16 01:50:15] [valid] Ep. 14 : Up. 85000 : ce-mean-words : 0.71027 : new best
+[2025-06-16 02:28:46] [valid] Ep. 15 : Up. 90000 : perplexity : 2.02426 : new best
+[2025-06-16 02:31:58] [valid] Ep. 15 : Up. 90000 : chrf : 73.3433 : stalled 1 times (last best: 73.973)
+[2025-06-16 02:32:17] [valid] Ep. 15 : Up. 90000 : ce-mean-words : 0.705203 : new best
+[2025-06-16 03:10:37] [valid] Ep. 15 : Up. 95000 : perplexity : 2.04193 : stalled 1 times (last best: 2.02426)
+[2025-06-16 03:13:50] [valid] Ep. 15 : Up. 95000 : chrf : 73.8437 : stalled 2 times (last best: 73.973)
+[2025-06-16 03:14:08] [valid] Ep. 15 : Up. 95000 : ce-mean-words : 0.713894 : stalled 1 times (last best: 0.705203)
+[2025-06-16 03:52:34] [valid] Ep. 16 : Up. 100000 : perplexity : 1.98085 : new best
+[2025-06-16 03:55:44] [valid] Ep. 16 : Up. 100000 : chrf : 73.9031 : stalled 3 times (last best: 73.973)
+[2025-06-16 03:56:03] [valid] Ep. 16 : Up. 100000 : ce-mean-words : 0.683525 : new best
+[2025-06-16 04:34:32] [valid] Ep. 17 : Up. 105000 : perplexity : 2.02289 : stalled 1 times (last best: 1.98085)
+[2025-06-16 04:37:44] [valid] Ep. 17 : Up. 105000 : chrf : 73.8351 : stalled 4 times (last best: 73.973)
+[2025-06-16 04:38:03] [valid] Ep. 17 : Up. 105000 : ce-mean-words : 0.704525 : stalled 1 times (last best: 0.683525)
+[2025-06-16 05:16:31] [valid] Ep. 18 : Up. 110000 : perplexity : 1.99917 : stalled 2 times (last best: 1.98085)
+[2025-06-16 05:19:43] [valid] Ep. 18 : Up. 110000 : chrf : 74.0808 : new best
+[2025-06-16 05:20:01] [valid] Ep. 18 : Up. 110000 : ce-mean-words : 0.692735 : stalled 2 times (last best: 0.683525)
+[2025-06-16 05:58:32] [valid] Ep. 19 : Up. 115000 : perplexity : 1.97857 : new best
+[2025-06-16 06:01:43] [valid] Ep. 19 : Up. 115000 : chrf : 73.8336 : stalled 1 times (last best: 74.0808)
+[2025-06-16 06:02:02] [valid] Ep. 19 : Up. 115000 : ce-mean-words : 0.682373 : new best
+[2025-06-16 06:40:22] [valid] Ep. 19 : Up. 120000 : perplexity : 2.00745 : stalled 1 times (last best: 1.97857)
+[2025-06-16 06:43:38] [valid] Ep. 19 : Up. 120000 : chrf : 74.0965 : new best
+[2025-06-16 06:43:56] [valid] Ep. 19 : Up. 120000 : ce-mean-words : 0.696867 : stalled 1 times (last best: 0.682373)
+[2025-06-16 07:22:24] [valid] Ep. 20 : Up. 125000 : perplexity : 1.9765 : new best
+[2025-06-16 07:25:40] [valid] Ep. 20 : Up. 125000 : chrf : 74.1359 : new best
+[2025-06-16 07:25:59] [valid] Ep. 20 : Up. 125000 : ce-mean-words : 0.681328 : new best
+[2025-06-16 08:04:22] [valid] Ep. 21 : Up. 130000 : perplexity : 1.99177 : stalled 1 times (last best: 1.9765)
+[2025-06-16 08:07:37] [valid] Ep. 21 : Up. 130000 : chrf : 73.6756 : stalled 1 times (last best: 74.1359)
+[2025-06-16 08:07:56] [valid] Ep. 21 : Up. 130000 : ce-mean-words : 0.689025 : stalled 1 times (last best: 0.681328)
+[2025-06-16 08:46:20] [valid] Ep. 22 : Up. 135000 : perplexity : 1.99818 : stalled 2 times (last best: 1.9765)
+[2025-06-16 08:49:32] [valid] Ep. 22 : Up. 135000 : chrf : 73.7465 : stalled 2 times (last best: 74.1359)
+[2025-06-16 08:49:51] [valid] Ep. 22 : Up. 135000 : ce-mean-words : 0.692238 : stalled 2 times (last best: 0.681328)
+[2025-06-16 09:28:14] [valid] Ep. 23 : Up. 140000 : perplexity : 1.99355 : stalled 3 times (last best: 1.9765)
+[2025-06-16 09:31:25] [valid] Ep. 23 : Up. 140000 : chrf : 74.0886 : stalled 3 times (last best: 74.1359)
+[2025-06-16 09:31:44] [valid] Ep. 23 : Up. 140000 : ce-mean-words : 0.689916 : stalled 3 times (last best: 0.681328)
+[2025-06-16 10:10:03] [valid] Ep. 23 : Up. 145000 : perplexity : 2.00096 : stalled 4 times (last best: 1.9765)
+[2025-06-16 10:13:19] [valid] Ep. 23 : Up. 145000 : chrf : 73.8194 : stalled 4 times (last best: 74.1359)
+[2025-06-16 10:13:38] [valid] Ep. 23 : Up. 145000 : ce-mean-words : 0.693627 : stalled 4 times (last best: 0.681328)
+[2025-06-16 10:52:22] [valid] Ep. 24 : Up. 150000 : perplexity : 1.98166 : stalled 5 times (last best: 1.9765)
+[2025-06-16 10:55:35] [valid] Ep. 24 : Up. 150000 : chrf : 74.3628 : new best
+[2025-06-16 10:55:54] [valid] Ep. 24 : Up. 150000 : ce-mean-words : 0.683937 : stalled 5 times (last best: 0.681328)

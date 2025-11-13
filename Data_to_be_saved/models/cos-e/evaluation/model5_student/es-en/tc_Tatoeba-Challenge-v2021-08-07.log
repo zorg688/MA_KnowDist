@@ -1,0 +1,162 @@
+[2025-04-04 03:37:11] [marian] Marian v1.12.31 a6ab8af8 2024-06-27 15:21:08 +0000
+[2025-04-04 03:37:11] [marian] Running on r01g07.bullx as process 30 with command line:
+[2025-04-04 03:37:11] [marian] /scratch/project_2011987/OpusDistillery/3rd_party/marian-dev/build//marian-decoder -c /scratch/project_2011987/OpusDistillery/rules/../data/models/MA-test/cat+oci+spa-eng/model5_student/final.model.npz.best-perplexity.npz.decoder.yml --quiet --quiet-translation --log /scratch/project_2011987/OpusDistillery/rules/../data/models/MA-test/cat+oci+spa-eng/evaluation/model5_student/es-en/tc_Tatoeba-Challenge-v2021-08-07.log -w 10000 --devices 0 -m /scratch/project_2011987/OpusDistillery/rules/../data/models/MA-test/cat+oci+spa-eng/model5_student/final.model.npz.best-perplexity.npz
+[2025-04-04 03:37:12] [config] alignment: ""
+[2025-04-04 03:37:12] [config] allow-special: false
+[2025-04-04 03:37:12] [config] allow-unk: false
+[2025-04-04 03:37:12] [config] authors: false
+[2025-04-04 03:37:12] [config] beam-size: 1
+[2025-04-04 03:37:12] [config] bert-class-symbol: "[CLS]"
+[2025-04-04 03:37:12] [config] bert-mask-symbol: "[MASK]"
+[2025-04-04 03:37:12] [config] bert-masking-fraction: 0.15
+[2025-04-04 03:37:12] [config] bert-sep-symbol: "[SEP]"
+[2025-04-04 03:37:12] [config] bert-train-type-embeddings: true
+[2025-04-04 03:37:12] [config] bert-type-vocab-size: 2
+[2025-04-04 03:37:12] [config] best-deep: false
+[2025-04-04 03:37:12] [config] build-info: ""
+[2025-04-04 03:37:12] [config] check-nan: false
+[2025-04-04 03:37:12] [config] cite: false
+[2025-04-04 03:37:12] [config] comet-augment-bad: 0
+[2025-04-04 03:37:12] [config] comet-dropout: 0.1
+[2025-04-04 03:37:12] [config] comet-final-sigmoid: false
+[2025-04-04 03:37:12] [config] comet-mix: false
+[2025-04-04 03:37:12] [config] comet-mix-norm: false
+[2025-04-04 03:37:12] [config] comet-mix-transformation: softmax
+[2025-04-04 03:37:12] [config] comet-mixup: 0
+[2025-04-04 03:37:12] [config] comet-mixup-reg: false
+[2025-04-04 03:37:12] [config] comet-pool: avg
+[2025-04-04 03:37:12] [config] comet-pooler-ffn:
+[2025-04-04 03:37:12] [config]   - 2048
+[2025-04-04 03:37:12] [config]   - 1024
+[2025-04-04 03:37:12] [config] comet-prepend-zero: false
+[2025-04-04 03:37:12] [config] comet-stop-grad: false
+[2025-04-04 03:37:12] [config] comet-use-separator: false
+[2025-04-04 03:37:12] [config] cpu-threads: 0
+[2025-04-04 03:37:12] [config] data-threads: 8
+[2025-04-04 03:37:12] [config] dec-cell: gru
+[2025-04-04 03:37:12] [config] dec-cell-base-depth: 2
+[2025-04-04 03:37:12] [config] dec-cell-high-depth: 1
+[2025-04-04 03:37:12] [config] dec-depth: 6
+[2025-04-04 03:37:12] [config] devices:
+[2025-04-04 03:37:12] [config]   - 0
+[2025-04-04 03:37:12] [config] dim-emb: 512
+[2025-04-04 03:37:12] [config] dim-rnn: 1024
+[2025-04-04 03:37:12] [config] dim-vocabs:
+[2025-04-04 03:37:12] [config]   - 32000
+[2025-04-04 03:37:12] [config]   - 32000
+[2025-04-04 03:37:12] [config] dump-config: ""
+[2025-04-04 03:37:12] [config] enc-cell: gru
+[2025-04-04 03:37:12] [config] enc-cell-depth: 1
+[2025-04-04 03:37:12] [config] enc-depth: 6
+[2025-04-04 03:37:12] [config] enc-type: bidirectional
+[2025-04-04 03:37:12] [config] factors-combine: sum
+[2025-04-04 03:37:12] [config] factors-dim-emb: 0
+[2025-04-04 03:37:12] [config] force-decode: false
+[2025-04-04 03:37:12] [config] gemm-type: float32
+[2025-04-04 03:37:12] [config] ignore-model-config: false
+[2025-04-04 03:37:12] [config] input:
+[2025-04-04 03:37:12] [config]   - stdin
+[2025-04-04 03:37:12] [config] input-join-fields: false
+[2025-04-04 03:37:12] [config] input-reorder:
+[2025-04-04 03:37:12] [config]   []
+[2025-04-04 03:37:12] [config] input-types:
+[2025-04-04 03:37:12] [config]   []
+[2025-04-04 03:37:12] [config] interpolate-env-vars: false
+[2025-04-04 03:37:12] [config] layer-normalization: false
+[2025-04-04 03:37:12] [config] lemma-dependency: ""
+[2025-04-04 03:37:12] [config] lemma-dim-emb: 0
+[2025-04-04 03:37:12] [config] log: /scratch/project_2011987/OpusDistillery/rules/../data/models/MA-test/cat+oci+spa-eng/evaluation/model5_student/es-en/tc_Tatoeba-Challenge-v2021-08-07.log
+[2025-04-04 03:37:12] [config] log-level: info
+[2025-04-04 03:37:12] [config] log-time-zone: ""
+[2025-04-04 03:37:12] [config] max-length: 1000
+[2025-04-04 03:37:12] [config] max-length-crop: false
+[2025-04-04 03:37:12] [config] max-length-factor: 3
+[2025-04-04 03:37:12] [config] maxi-batch: 100
+[2025-04-04 03:37:12] [config] maxi-batch-sort: src
+[2025-04-04 03:37:12] [config] mini-batch: 64
+[2025-04-04 03:37:12] [config] mini-batch-words: 0
+[2025-04-04 03:37:12] [config] model-mmap: false
+[2025-04-04 03:37:12] [config] models:
+[2025-04-04 03:37:12] [config]   - /scratch/project_2011987/OpusDistillery/rules/../data/models/MA-test/cat+oci+spa-eng/model5_student/final.model.npz.best-perplexity.npz
+[2025-04-04 03:37:12] [config] n-best: false
+[2025-04-04 03:37:12] [config] no-spm-decode: false
+[2025-04-04 03:37:12] [config] no-spm-encode: false
+[2025-04-04 03:37:12] [config] normalize: 1
+[2025-04-04 03:37:12] [config] optimize: false
+[2025-04-04 03:37:12] [config] output: stdout
+[2025-04-04 03:37:12] [config] output-approx-knn:
+[2025-04-04 03:37:12] [config]   []
+[2025-04-04 03:37:12] [config] output-omit-bias: false
+[2025-04-04 03:37:12] [config] output-sampling:
+[2025-04-04 03:37:12] [config]   []
+[2025-04-04 03:37:12] [config] precision:
+[2025-04-04 03:37:12] [config]   - float32
+[2025-04-04 03:37:12] [config] quantize-range: 0
+[2025-04-04 03:37:12] [config] quiet: true
+[2025-04-04 03:37:12] [config] quiet-translation: true
+[2025-04-04 03:37:12] [config] relative-paths: false
+[2025-04-04 03:37:12] [config] right-left: false
+[2025-04-04 03:37:12] [config] seed: 0
+[2025-04-04 03:37:12] [config] separator-symbol: "[eos]"
+[2025-04-04 03:37:12] [config] shortlist:
+[2025-04-04 03:37:12] [config]   []
+[2025-04-04 03:37:12] [config] skip: false
+[2025-04-04 03:37:12] [config] skip-cost: false
+[2025-04-04 03:37:12] [config] stat-freq: 0
+[2025-04-04 03:37:12] [config] tied-embeddings: false
+[2025-04-04 03:37:12] [config] tied-embeddings-all: true
+[2025-04-04 03:37:12] [config] tied-embeddings-src: false
+[2025-04-04 03:37:12] [config] transformer-aan-activation: swish
+[2025-04-04 03:37:12] [config] transformer-aan-depth: 2
+[2025-04-04 03:37:12] [config] transformer-aan-nogate: false
+[2025-04-04 03:37:12] [config] transformer-alibi-shift: false
+[2025-04-04 03:37:12] [config] transformer-alibi-trainable: false
+[2025-04-04 03:37:12] [config] transformer-attention-mask: default
+[2025-04-04 03:37:12] [config] transformer-decoder-autoreg: rnn
+[2025-04-04 03:37:12] [config] transformer-decoder-dim-ffn: 0
+[2025-04-04 03:37:12] [config] transformer-decoder-ffn-depth: 0
+[2025-04-04 03:37:12] [config] transformer-depth-scaling: false
+[2025-04-04 03:37:12] [config] transformer-dim-aan: 2048
+[2025-04-04 03:37:12] [config] transformer-dim-ffn: 2048
+[2025-04-04 03:37:12] [config] transformer-disable-position-embeddings: false
+[2025-04-04 03:37:12] [config] transformer-ffn-activation: relu
+[2025-04-04 03:37:12] [config] transformer-ffn-depth: 2
+[2025-04-04 03:37:12] [config] transformer-guided-alignment-layer: last
+[2025-04-04 03:37:12] [config] transformer-heads: 8
+[2025-04-04 03:37:12] [config] transformer-no-affine: false
+[2025-04-04 03:37:12] [config] transformer-no-bias: false
+[2025-04-04 03:37:12] [config] transformer-no-projection: false
+[2025-04-04 03:37:12] [config] transformer-pool: false
+[2025-04-04 03:37:12] [config] transformer-postprocess: dan
+[2025-04-04 03:37:12] [config] transformer-postprocess-emb: d
+[2025-04-04 03:37:12] [config] transformer-postprocess-top: ""
+[2025-04-04 03:37:12] [config] transformer-preprocess: ""
+[2025-04-04 03:37:12] [config] transformer-rnn-projection: false
+[2025-04-04 03:37:12] [config] transformer-tied-layers:
+[2025-04-04 03:37:12] [config]   []
+[2025-04-04 03:37:12] [config] transformer-train-position-embeddings: false
+[2025-04-04 03:37:12] [config] tsv: false
+[2025-04-04 03:37:12] [config] tsv-fields: 0
+[2025-04-04 03:37:12] [config] type: transformer
+[2025-04-04 03:37:12] [config] ulr: false
+[2025-04-04 03:37:12] [config] ulr-dim-emb: 0
+[2025-04-04 03:37:12] [config] ulr-trainable-transformation: false
+[2025-04-04 03:37:12] [config] version: v1.12.31 a6ab8af8 2024-06-27 15:21:08 +0000
+[2025-04-04 03:37:12] [config] vocabs:
+[2025-04-04 03:37:12] [config]   - /scratch/project_2011987/OpusDistillery/rules/../data/models/MA-test/cat+oci+spa-eng/vocab/vocab.spm
+[2025-04-04 03:37:12] [config]   - /scratch/project_2011987/OpusDistillery/rules/../data/models/MA-test/cat+oci+spa-eng/vocab/vocab.spm
+[2025-04-04 03:37:12] [config] weights:
+[2025-04-04 03:37:12] [config]   []
+[2025-04-04 03:37:12] [config] word-penalty: 0
+[2025-04-04 03:37:12] [config] word-scores: false
+[2025-04-04 03:37:12] [config] workspace: 10000
+[2025-04-04 03:37:12] [config] Loaded model has been created with Marian v1.12.31 a6ab8af8 2024-06-27 15:21:08 +0000
+[2025-04-04 03:37:12] [data] Loading SentencePiece vocabulary from file /scratch/project_2011987/OpusDistillery/rules/../data/models/MA-test/cat+oci+spa-eng/vocab/vocab.spm
+[2025-04-04 03:37:12] [data] Loading SentencePiece vocabulary from file /scratch/project_2011987/OpusDistillery/rules/../data/models/MA-test/cat+oci+spa-eng/vocab/vocab.spm
+[2025-04-04 03:37:12] Loading model from /scratch/project_2011987/OpusDistillery/rules/../data/models/MA-test/cat+oci+spa-eng/model5_student/final.model.npz.best-perplexity.npz
+[2025-04-04 03:37:14] [memory] Extending reserved space to 10112 MB (device gpu0)
+[2025-04-04 03:37:15] Loaded model config
+[2025-04-04 03:37:15] Loading scorer of type transformer as feature F0
+[2025-04-04 03:37:15] [memory] Reserving 242 MB, device gpu0
+[2025-04-04 03:37:20] [gpu] 16-bit TensorCores enabled for float32 matrix operations
+[2025-04-04 03:37:33] Total time: 17.41040s wall

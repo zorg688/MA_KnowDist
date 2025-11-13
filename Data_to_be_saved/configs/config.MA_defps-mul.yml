@@ -1,0 +1,75 @@
+####
+# Example of a production config
+# Change language pair, experiment name, datasets and other settings if needed
+# Training low resource languages might require more tuning of pipeline/training/configs
+###
+
+experiment:
+  dirname: MA-test
+  name: defps-mul
+  langpairs:
+    - es-en
+    - en-en
+
+  #URL to the OPUS-MT model to use as the teacher
+  opusmt-teacher: "https://object.pouta.csc.fi/Tatoeba-MT-models/deu+eng+fra+por+spa-mul/opusTCv20230926max50+bt+jhubc_transformer-big_2024-05-30.zip"
+  
+  # Specify if the teacher and the student are many2one
+  one2many-teacher: True
+  one2many-student: False
+
+  #URL to the OPUS-MT model to use as the backward model
+  opusmt-backward: "https://object.pouta.csc.fi/Tatoeba-MT-models/mul-deu+eng+fra+por+spa/opusTCv20230926max50+bt+jhubc_transformer-big_2024-05-30.zip"
+  one2many-backward: True
+
+  teacher-ensemble: 1
+
+  marian-args:
+  # These configs override pipeline/train/configs
+  training-student:
+    dec-cell-base-depth: 2
+    dec-cell-high-depth: 1
+    dec-cell: ssru
+    dec-depth: 2
+    dim-emb: 256
+    enc-cell-depth: 1
+    enc-cell: gru
+    enc-depth: 6
+    enc-type: bidirectional
+    tied-embeddings-all: true
+    transformer-decoder-autoreg: rnn
+    transformer-dim-ffn: 1536
+    transformer-ffn-activation: relu
+    transformer-ffn-depth: 2
+    transformer-guided-alignment-layer: last
+    transformer-heads: 8
+    transformer-no-projection: false
+    transformer-postprocess-emb: d
+    transformer-postprocess: dan
+    transformer-preprocess: ""
+    transformer-tied-layers: []
+    transformer-train-position-embeddings: false
+    type: transformer
+    early-stopping: 5
+  
+  parallel-max-sentences: 20000000
+  split-length: 2000000
+  spm-sample-size: 10000000
+  spm-vocab-size: 32000 
+
+  student-prefix: model5_tiny
+  
+  best-model: perplexity
+
+  export: "no"
+
+  #opusfilter:
+    #config: /scratch/project_2011987/OpusDistillery/configs/config.opusfilter.yml #/home/degibert/Documents/0_Work/multi-ftt/firefox-translations-training/configs/config.opusfilter.yml
+
+datasets:
+  train:
+    - tc_Tatoeba-Challenge-v2023-09-26
+  devtest:
+    - tc_Tatoeba-Challenge-v2023-09-26
+  test:
+    - tc_Tatoeba-Challenge-v2023-09-26

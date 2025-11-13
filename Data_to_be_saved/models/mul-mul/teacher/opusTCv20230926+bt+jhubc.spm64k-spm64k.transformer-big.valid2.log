@@ -1,0 +1,130 @@
+[2024-06-11 16:45:56] [valid] Ep. 1 : Up. 10000 : perplexity : 12.7852 : new best
+[2024-06-12 00:52:12] [valid] Ep. 1 : Up. 20000 : perplexity : 12.4238 : new best
+[2024-06-12 08:58:05] [valid] Ep. 1 : Up. 30000 : perplexity : 12.2921 : new best
+[2024-06-12 17:04:23] [valid] Ep. 1 : Up. 40000 : perplexity : 12.2314 : new best
+[2024-06-13 01:10:56] [valid] Ep. 1 : Up. 50000 : perplexity : 12.1864 : new best
+[2024-06-13 09:16:58] [valid] Ep. 1 : Up. 60000 : perplexity : 12.1231 : new best
+[2024-06-13 17:20:22] [valid] Ep. 1 : Up. 70000 : perplexity : 12.081 : new best
+[2024-06-14 01:23:36] [valid] Ep. 1 : Up. 80000 : perplexity : 12.0426 : new best
+[2024-06-14 21:20:41] [valid] Ep. 1 : Up. 90000 : perplexity : 12.0192 : new best
+[2024-06-15 05:27:56] [valid] Ep. 1 : Up. 100000 : perplexity : 11.9961 : new best
+[2024-06-15 13:36:03] [valid] Ep. 1 : Up. 110000 : perplexity : 11.9804 : new best
+[2024-06-15 21:44:16] [valid] Ep. 1 : Up. 120000 : perplexity : 11.9639 : new best
+[2024-06-16 05:51:42] [valid] Ep. 1 : Up. 130000 : perplexity : 11.9424 : new best
+[2024-06-16 13:59:12] [valid] Ep. 1 : Up. 140000 : perplexity : 11.9239 : new best
+[2024-06-16 22:06:42] [valid] Ep. 1 : Up. 150000 : perplexity : 11.9074 : new best
+[2024-06-17 06:13:41] [valid] Ep. 1 : Up. 160000 : perplexity : 11.8919 : new best
+[2024-06-19 11:28:13] [valid] Ep. 1 : Up. 170000 : perplexity : 11.8794 : new best
+[2024-06-19 19:28:28] [valid] Ep. 1 : Up. 180000 : perplexity : 11.8706 : new best
+[2024-06-20 03:28:59] [valid] Ep. 1 : Up. 190000 : perplexity : 11.859 : new best
+[2024-06-20 11:29:35] [valid] Ep. 1 : Up. 200000 : perplexity : 11.8425 : new best
+[2024-06-20 19:29:54] [valid] Ep. 1 : Up. 210000 : perplexity : 11.8367 : new best
+[2024-06-21 03:29:59] [valid] Ep. 1 : Up. 220000 : perplexity : 11.8281 : new best
+[2024-06-21 11:30:25] [valid] Ep. 1 : Up. 230000 : perplexity : 11.82 : new best
+[2024-06-21 19:30:35] [valid] Ep. 1 : Up. 240000 : perplexity : 11.806 : new best
+[2024-06-24 10:38:28] [valid] Ep. 1 : Up. 250000 : perplexity : 11.7951 : new best
+[2024-06-24 18:45:06] [valid] Ep. 1 : Up. 260000 : perplexity : 11.7875 : new best
+[2024-06-25 02:51:33] [valid] Ep. 1 : Up. 270000 : perplexity : 11.7885 : stalled 1 times (last best: 11.7875)
+[2024-06-25 10:58:06] [valid] Ep. 1 : Up. 280000 : perplexity : 11.7849 : new best
+[2024-06-25 19:04:48] [valid] Ep. 1 : Up. 290000 : perplexity : 11.7789 : new best
+[2024-07-01 01:09:45] [valid] Ep. 1 : Up. 300000 : perplexity : 11.7692 : new best
+[2024-07-01 09:16:27] [valid] Ep. 1 : Up. 310000 : perplexity : 11.763 : new best
+[2024-07-01 17:23:48] [valid] Ep. 1 : Up. 320000 : perplexity : 11.759 : new best
+[2024-07-02 01:30:32] [valid] Ep. 1 : Up. 330000 : perplexity : 11.7527 : new best
+[2024-07-02 09:37:39] [valid] Ep. 1 : Up. 340000 : perplexity : 11.7573 : stalled 1 times (last best: 11.7527)
+[2024-07-02 17:45:07] [valid] Ep. 1 : Up. 350000 : perplexity : 11.7558 : stalled 2 times (last best: 11.7527)
+[2024-07-03 01:51:55] [valid] Ep. 1 : Up. 360000 : perplexity : 11.7418 : new best
+[2024-07-03 09:58:58] [valid] Ep. 1 : Up. 370000 : perplexity : 11.7379 : new best
+[2024-07-04 04:49:47] [valid] Ep. 1 : Up. 380000 : perplexity : 11.7283 : new best
+[2024-07-04 05:00:38] [valid] Ep. 1 : Up. 380000 : perplexity : 11.7249 : new best
+[2024-07-04 12:58:46] [valid] Ep. 1 : Up. 390000 : perplexity : 11.721 : new best
+[2024-07-04 13:07:36] [valid] Ep. 1 : Up. 390000 : perplexity : 11.7151 : new best
+[2024-07-04 21:07:18] [valid] Ep. 1 : Up. 400000 : perplexity : 11.7159 : new best
+[2024-07-04 21:14:07] [valid] Ep. 1 : Up. 400000 : perplexity : 11.7128 : new best
+[2024-07-05 05:15:51] [valid] Ep. 1 : Up. 410000 : perplexity : 11.7199 : stalled 1 times (last best: 11.7159)
+[2024-07-05 05:20:24] [valid] Ep. 1 : Up. 410000 : perplexity : 11.7183 : stalled 1 times (last best: 11.7128)
+[2024-07-05 13:24:40] [valid] Ep. 1 : Up. 420000 : perplexity : 11.7123 : new best
+[2024-07-05 13:27:00] [valid] Ep. 1 : Up. 420000 : perplexity : 11.715 : stalled 2 times (last best: 11.7128)
+[2024-07-05 21:32:23] [valid] Ep. 1 : Up. 430000 : perplexity : 11.7023 : new best
+[2024-07-05 21:34:08] [valid] Ep. 1 : Up. 430000 : perplexity : 11.7034 : new best
+[2024-07-06 05:41:15] [valid] Ep. 1 : Up. 440000 : perplexity : 11.6935 : new best
+[2024-07-06 13:49:17] [valid] Ep. 1 : Up. 450000 : perplexity : 11.6879 : new best
+[2024-07-07 23:59:33] [valid] Ep. 1 : Up. 460000 : perplexity : 11.6847 : new best
+[2024-07-08 08:01:05] [valid] Ep. 1 : Up. 470000 : perplexity : 11.6822 : new best
+[2024-07-08 16:01:46] [valid] Ep. 1 : Up. 480000 : perplexity : 11.679 : new best
+[2024-07-09 00:03:10] [valid] Ep. 1 : Up. 490000 : perplexity : 11.6749 : new best
+[2024-07-09 08:03:45] [valid] Ep. 1 : Up. 500000 : perplexity : 11.6663 : new best
+[2024-07-09 16:04:54] [valid] Ep. 1 : Up. 510000 : perplexity : 11.6624 : new best
+[2024-07-10 00:06:01] [valid] Ep. 1 : Up. 520000 : perplexity : 11.6632 : stalled 1 times (last best: 11.6624)
+[2024-07-10 08:07:29] [valid] Ep. 1 : Up. 530000 : perplexity : 11.6587 : new best
+[2024-07-12 04:30:49] [valid] Ep. 1 : Up. 540000 : perplexity : 11.6559 : new best
+[2024-07-12 12:33:55] [valid] Ep. 1 : Up. 550000 : perplexity : 11.6743 : stalled 1 times (last best: 11.6559)
+[2024-07-12 20:36:42] [valid] Ep. 1 : Up. 560000 : perplexity : 11.6626 : stalled 2 times (last best: 11.6559)
+[2024-07-13 04:39:32] [valid] Ep. 1 : Up. 570000 : perplexity : 11.6714 : stalled 3 times (last best: 11.6559)
+[2024-07-13 12:42:37] [valid] Ep. 1 : Up. 580000 : perplexity : 11.6829 : stalled 4 times (last best: 11.6559)
+[2024-07-13 20:45:01] [valid] Ep. 1 : Up. 590000 : perplexity : 11.6681 : stalled 5 times (last best: 11.6559)
+[2024-07-14 04:46:54] [valid] Ep. 1 : Up. 600000 : perplexity : 11.6748 : stalled 6 times (last best: 11.6559)
+[2024-07-15 05:37:27] [valid] Ep. 1 : Up. 610000 : perplexity : 11.6562 : stalled 6 times (last best: 11.6559)
+[2024-07-15 13:39:36] [valid] Ep. 1 : Up. 620000 : perplexity : 11.642 : new best
+[2024-07-15 21:42:33] [valid] Ep. 1 : Up. 630000 : perplexity : 11.629 : new best
+[2024-07-16 05:45:26] [valid] Ep. 1 : Up. 640000 : perplexity : 11.6192 : new best
+[2024-07-16 13:47:32] [valid] Ep. 1 : Up. 650000 : perplexity : 11.6193 : stalled 1 times (last best: 11.6192)
+[2024-07-16 21:49:56] [valid] Ep. 1 : Up. 660000 : perplexity : 11.6159 : new best
+[2024-07-17 05:52:56] [valid] Ep. 1 : Up. 670000 : perplexity : 11.6124 : new best
+[2024-07-19 12:02:30] [valid] Ep. 1 : Up. 680000 : perplexity : 11.6169 : stalled 1 times (last best: 11.6159)
+[2024-07-19 20:07:05] [valid] Ep. 1 : Up. 690000 : perplexity : 11.6211 : stalled 2 times (last best: 11.6159)
+[2024-07-20 04:12:31] [valid] Ep. 1 : Up. 700000 : perplexity : 11.6166 : stalled 3 times (last best: 11.6159)
+[2024-07-20 12:17:12] [valid] Ep. 1 : Up. 710000 : perplexity : 11.6091 : new best
+[2024-07-20 20:22:13] [valid] Ep. 1 : Up. 720000 : perplexity : 11.6026 : new best
+[2024-07-21 04:26:12] [valid] Ep. 1 : Up. 730000 : perplexity : 11.6102 : stalled 1 times (last best: 11.6026)
+[2024-07-21 12:31:00] [valid] Ep. 1 : Up. 740000 : perplexity : 11.6027 : stalled 2 times (last best: 11.6026)
+[2024-07-22 12:57:40] [valid] Ep. 1 : Up. 750000 : perplexity : 11.6033 : stalled 2 times (last best: 11.6026)
+[2024-07-22 21:04:55] [valid] Ep. 1 : Up. 760000 : perplexity : 11.5885 : new best
+[2024-07-23 05:10:17] [valid] Ep. 1 : Up. 770000 : perplexity : 11.5844 : new best
+[2024-07-23 13:16:56] [valid] Ep. 1 : Up. 780000 : perplexity : 11.5785 : new best
+[2024-07-23 21:22:53] [valid] Ep. 1 : Up. 790000 : perplexity : 11.5783 : new best
+[2024-07-24 05:30:11] [valid] Ep. 1 : Up. 800000 : perplexity : 11.5863 : stalled 1 times (last best: 11.5783)
+[2024-07-24 13:36:34] [valid] Ep. 1 : Up. 810000 : perplexity : 11.5903 : stalled 2 times (last best: 11.5783)
+[2024-07-25 20:58:26] [valid] Ep. 1 : Up. 820000 : perplexity : 11.5884 : stalled 2 times (last best: 11.5783)
+[2024-07-26 05:06:26] [valid] Ep. 1 : Up. 830000 : perplexity : 11.5908 : stalled 3 times (last best: 11.5783)
+[2024-07-26 13:14:12] [valid] Ep. 1 : Up. 840000 : perplexity : 11.5898 : stalled 4 times (last best: 11.5783)
+[2024-07-26 21:21:31] [valid] Ep. 1 : Up. 850000 : perplexity : 11.5892 : stalled 5 times (last best: 11.5783)
+[2024-07-27 05:28:45] [valid] Ep. 1 : Up. 860000 : perplexity : 11.5942 : stalled 6 times (last best: 11.5783)
+[2024-07-27 13:35:41] [valid] Ep. 1 : Up. 870000 : perplexity : 11.5854 : stalled 7 times (last best: 11.5783)
+[2024-07-27 21:42:23] [valid] Ep. 1 : Up. 880000 : perplexity : 11.5772 : new best
+[2024-07-29 00:21:16] [valid] Ep. 1 : Up. 890000 : perplexity : 11.5654 : new best
+[2024-07-29 08:29:41] [valid] Ep. 1 : Up. 900000 : perplexity : 11.5667 : stalled 1 times (last best: 11.5654)
+[2024-07-29 16:37:58] [valid] Ep. 1 : Up. 910000 : perplexity : 11.5549 : new best
+[2024-07-30 00:46:56] [valid] Ep. 1 : Up. 920000 : perplexity : 11.558 : stalled 1 times (last best: 11.5549)
+[2024-07-30 08:54:55] [valid] Ep. 1 : Up. 930000 : perplexity : 11.5433 : new best
+[2024-07-30 17:03:00] [valid] Ep. 1 : Up. 940000 : perplexity : 11.5378 : new best
+[2024-08-01 01:24:57] [valid] Ep. 1 : Up. 950000 : perplexity : 11.5361 : new best
+[2024-08-01 09:29:05] [valid] Ep. 1 : Up. 960000 : perplexity : 11.5305 : new best
+[2024-08-01 17:33:28] [valid] Ep. 1 : Up. 970000 : perplexity : 11.5278 : new best
+[2024-08-02 01:37:55] [valid] Ep. 1 : Up. 980000 : perplexity : 11.5266 : new best
+[2024-08-02 09:42:39] [valid] Ep. 1 : Up. 990000 : perplexity : 11.5256 : new best
+[2024-08-02 18:11:02] [valid] Ep. 1 : Up. 1000000 : perplexity : 11.5215 : new best
+[2024-08-04 15:36:14] [valid] Ep. 1 : Up. 1010000 : perplexity : 11.5302 : stalled 1 times (last best: 11.5256)
+[2024-08-04 23:41:24] [valid] Ep. 1 : Up. 1020000 : perplexity : 11.533 : stalled 2 times (last best: 11.5256)
+[2024-08-05 07:46:21] [valid] Ep. 1 : Up. 1030000 : perplexity : 11.5244 : new best
+[2024-08-05 15:50:58] [valid] Ep. 1 : Up. 1040000 : perplexity : 11.5234 : new best
+[2024-08-05 23:55:43] [valid] Ep. 1 : Up. 1050000 : perplexity : 11.5247 : stalled 1 times (last best: 11.5234)
+[2024-08-06 08:00:26] [valid] Ep. 1 : Up. 1060000 : perplexity : 11.5275 : stalled 2 times (last best: 11.5234)
+[2024-08-08 17:13:18] [valid] Ep. 1 : Up. 1070000 : perplexity : 11.5115 : new best
+[2024-08-09 01:20:33] [valid] Ep. 1 : Up. 1080000 : perplexity : 11.5092 : new best
+[2024-08-09 09:27:30] [valid] Ep. 1 : Up. 1090000 : perplexity : 11.5039 : new best
+[2024-08-09 17:34:49] [valid] Ep. 1 : Up. 1100000 : perplexity : 11.5029 : new best
+[2024-08-10 01:41:55] [valid] Ep. 1 : Up. 1110000 : perplexity : 11.5071 : stalled 1 times (last best: 11.5029)
+[2024-08-10 09:48:52] [valid] Ep. 1 : Up. 1120000 : perplexity : 11.5036 : stalled 2 times (last best: 11.5029)
+[2024-08-11 19:49:03] [valid] Ep. 1 : Up. 1130000 : perplexity : 11.5045 : stalled 2 times (last best: 11.5029)
+[2024-08-12 03:51:12] [valid] Ep. 1 : Up. 1140000 : perplexity : 11.5032 : stalled 3 times (last best: 11.5029)
+[2024-08-12 11:52:50] [valid] Ep. 1 : Up. 1150000 : perplexity : 11.4989 : new best
+[2024-08-12 19:55:22] [valid] Ep. 1 : Up. 1160000 : perplexity : 11.4963 : new best
+[2024-08-13 03:57:09] [valid] Ep. 1 : Up. 1170000 : perplexity : 11.5071 : stalled 1 times (last best: 11.4963)
+[2024-08-13 11:59:37] [valid] Ep. 1 : Up. 1180000 : perplexity : 11.4989 : stalled 2 times (last best: 11.4963)
+[2024-08-15 09:03:33] [valid] Ep. 1 : Up. 1190000 : perplexity : 11.4967 : stalled 2 times (last best: 11.4963)
+[2024-08-15 17:07:26] [valid] Ep. 1 : Up. 1200000 : perplexity : 11.4928 : new best
+[2024-08-16 01:10:50] [valid] Ep. 1 : Up. 1210000 : perplexity : 11.4976 : stalled 1 times (last best: 11.4928)
+[2024-08-16 09:14:24] [valid] Ep. 1 : Up. 1220000 : perplexity : 11.4904 : new best
+[2024-08-16 17:17:37] [valid] Ep. 1 : Up. 1230000 : perplexity : 11.4766 : new best
+[2024-08-17 01:21:09] [valid] Ep. 1 : Up. 1240000 : perplexity : 11.4724 : new best
